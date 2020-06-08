@@ -4,8 +4,10 @@ Modern societies increasingly depend on complex networked systems to support our
 Understanding structures and dynamics defined over such networks has thus become a prevalent challenge across many disciplines. A recurring question which appears in a wide variety of problems is how one can exploit the interplay between the topological structure of the system and available measurements at the nodes (or edges) of the networks. 
 The goal of this minisymposium is to bring together researchers from different mathematical communities -- from network science, machine learning, statistics, signal processing and optimization -- to discuss and highlight novel approaches to understand and learn from data defined on networks. 
 
-Schedule 
-| Time (ET)     | Speaker                              | Title                                                                        |
+Schedule:   
+
+
+| Time (ET)     | Speaker                              | Title                                                                         |
 | ------------- | ------------------------------------ | ---------------------------------------------------------------------------- |
 | 10:00 - 10:30 | Michael Schaub (Aachen)              | Learning from graphs and data on networks — overview and outlook             |
 | 10:30 - 11:00 | Caterina De Bacco (Tuebingen)        | Incorporating node attributes in community detection for multilayer networks |
