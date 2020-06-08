@@ -6,9 +6,9 @@ The goal of this minisymposium is to bring together researchers from different m
 
 ## Organized by   
 
-Michael Schaub (RWTH Aachen University - Germany) [webpage](https://michaelschaub.github.io/)
-Santiago Segarra (Rice University - USA) [webpage](https://segarra.rice.edu/)
-Francesco Tudisco (Gran Sasso Science Institute - Italy) [webpage](https://ftudisco.gitlab.io/)
+Michael Schaub (RWTH Aachen University - Germany) [webpage](https://michaelschaub.github.io/)    
+Santiago Segarra (Rice University - USA) [webpage](https://segarra.rice.edu/)    
+Francesco Tudisco (Gran Sasso Science Institute - Italy) [webpage](https://ftudisco.gitlab.io/)    
 
 
 ## Session date and time   
