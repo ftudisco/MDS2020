@@ -40,7 +40,6 @@ TBA
 
 ### [Michael Schaub](https://michaelschaub.github.io/)   
 RWTH Aachen University (Germany)  
-
 **Learning from graphs and data on networks: overview and outlook**  
 Abstract. *Many problems in data science can be framed in terms of analyzing graphs.
 In some cases, these graphs are constructed from point-cloud data in order to reveal certain underlying features of the data, e.g., as done in manifold learning.
@@ -53,7 +52,6 @@ We will particularly focus on the latter perspective: how to learn from data def
 
 ### [Caterina De Bacco](https://cdebacco.com/)   
 Max Planck Institute for Intelligent Systems (Germany)   
-
 **Incorporating node attributes in community detection for multilayer networks**    
 Abstract. *In this work, we propose a new approach for community detection in multilayer and attributed networks. The goal is to assign each network node to clusters by incorporating both the information carried by nodes' attributes and the connectivity patterns in each layer. This is a challenging inference task as one needs to properly combine two types of information and thus leverage the extent to which topological and attribute information contribute to the network's partition. We present an extension of the existing MultiTensor model which was recently developed as a generative model to perform overlapping community detection on multilayer networks by taking into account different types of interactions. Specifically, we incorporate nodes' attributes into the probabilistic framework to uncover groups of nodes that are structurally close but also share some common characteristics. We illustrate its behavior on synthetic and real data.*
 
