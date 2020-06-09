@@ -4,7 +4,7 @@ Modern societies increasingly depend on complex networked systems to support our
 Understanding structures and dynamics defined over such networks has thus become a prevalent challenge across many disciplines. A recurring question which appears in a wide variety of problems is how one can exploit the interplay between the topological structure of the system and available measurements at the nodes (or edges) of the networks. 
 The goal of this minisymposium is to bring together researchers from different mathematical communities -- from network science, machine learning, statistics, signal processing and optimization -- to discuss and highlight novel approaches to understand and learn from data defined on networks. 
 
-## Organized by   
+## Organized by    
 
 [Michael Schaub](https://michaelschaub.github.io/)    (RWTH Aachen University - Germany)   
 [Santiago Segarra](https://segarra.rice.edu/)     (Rice University - USA)   
@@ -71,6 +71,6 @@ Abstract. *The task of classifying data, where the goal is to divide the data in
 ### [David Gleich](https://www.cs.purdue.edu/homes/dgleich/)   
 Purdue University (USA)  
 **Nonlinear processes on networks**    
-Abstract. *We discuss various opportunities and challenges using nonlinear processes on graph data. In particular, we focus on how the lack of linearity opens up an interesting possibility in problems related to semi-supervised learning and seeded clustering where the result of multiple seeds does not combine linearly.*  
+Abstract. *We discuss various opportunities and challenges using nonlinear processes on graph data. In particular, we focus on how the lack of linearity opens up an interesting possibility in problems related to semi-supervised learning and seeded clustering where the result of multiple seeds does not combine linearly.*    
 
 
