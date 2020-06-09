@@ -29,6 +29,9 @@ Starting at 10:00 am Eastern time (Boston)
 | 11:30 - 12:00 | Ekaterina Rapinchuk    | Applications of Auction Dynamics to Data Defined on Networks                 |
 | 12:00 - 12:30 | David Gleich           | Nonlinear processes on networks                                              |
 
+
+See also the conference's [virtual program](https://siam9-my.sharepoint.com/:x:/g/personal/moore_siam_org/EYTLcxWB41NJs2SqNhuHv4UB9SGkLksNw5_3jt-pJP1biw?rtime=RcpDmJML2Eg)  
+
 ## Zoom link  
 TBA
 
