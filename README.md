@@ -42,9 +42,9 @@ RWTH Aachen University (Germany)
 Abstract. *Many problems in data science can be framed in terms of analyzing graphs.
 In some cases, these graphs are constructed from point-cloud data in order to reveal certain underlying features of the data, e.g., as done in manifold learning.
 In other cases, the graphs themselves are the data we would like to understand. A canonical example here is social network network analysis.
-A third category are problems in which the data of interest is defined on top of a graph and we would like to leverage the graph structure to understand those data better --- think for instance of dynamical systems such as the flow of traffic or human mobility patterns defined on top of a graph.
+A third category are problems in which the data of interest is defined on top of a graph and we would like to leverage the graph structure to understand those data better --- think for instance of dynamical systems such as the flow of traffic or human mobility patterns defined on top of a graph.*
 
-In this talk we will give a brief overview of these various learning perspectives associated to graphs and data analysis and highlight differences, similarities and challenges among these.
+*In this talk we will give a brief overview of these various learning perspectives associated to graphs and data analysis and highlight differences, similarities and challenges among these.
 We will particularly focus on the latter perspective: how to learn from data defined on networks? In this context we will discuss the problem of 'topological inference' in more detail, in which we aim to learn a graph from dynamical observations on its nodes.*
 
 
