@@ -38,8 +38,11 @@ TBA
 
 # Speakers and abstracts
 
-### [Michael Schaub](https://michaelschaub.github.io/)   
+### [Michael Schaub](https://michaelschaub.github.io/)  
 RWTH Aachen University (Germany)  
+
+<img src="https://michaelschaub.github.io/images/MichaelBW.jpg" align=left width="150">
+
 **Learning from graphs and data on networks: overview and outlook**  
 Abstract. *Many problems in data science can be framed in terms of analyzing graphs.
 In some cases, these graphs are constructed from point-cloud data in order to reveal certain underlying features of the data, e.g., as done in manifold learning.
