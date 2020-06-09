@@ -41,10 +41,8 @@ TBA
 ### [Michael Schaub](https://michaelschaub.github.io/)  
 RWTH Aachen University (Germany)  
 
-![](https://michaelschaub.github.io/images/MichaelBW.jpg){:width="100px"}{:style="border: 1px solid black; padding: 2px; float: right; margin: 10px"}
-
 **Learning from graphs and data on networks: overview and outlook**  
-Abstract. *Many problems in data science can be framed in terms of analyzing graphs.
+![](https://michaelschaub.github.io/images/MichaelBW.jpg){:width="100px"}{:style="border: 1px solid black; padding: 2px; float: right; margin: 10px"} Abstract. *Many problems in data science can be framed in terms of analyzing graphs.
 In some cases, these graphs are constructed from point-cloud data in order to reveal certain underlying features of the data, e.g., as done in manifold learning.
 In other cases, the graphs themselves are the data we would like to understand. A canonical example here is social network network analysis.
 A third category are problems in which the data of interest is defined on top of a graph and we would like to leverage the graph structure to understand those data better --- think for instance of dynamical systems such as the flow of traffic or human mobility patterns defined on top of a graph.*{: style="text-align: justified"}
