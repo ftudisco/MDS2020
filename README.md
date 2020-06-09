@@ -39,24 +39,24 @@ TBA
 # Speakers and abstracts
 
 ### [Michael Schaub](https://michaelschaub.github.io/)  
-![](https://michaelschaub.github.io/images/MichaelBW.jpg){:width="100px"}{:style="border: 1px solid black; padding: 2px; float: right; margin: 10px"}
 RWTH Aachen University (Germany)  
 
+![](https://michaelschaub.github.io/images/MichaelBW.jpg){:width="100px"}{:style="border: 1px solid black; padding: 2px; float: right; margin: 10px"}
 
 **Learning from graphs and data on networks: overview and outlook**  
 Abstract. *Many problems in data science can be framed in terms of analyzing graphs.
 In some cases, these graphs are constructed from point-cloud data in order to reveal certain underlying features of the data, e.g., as done in manifold learning.
 In other cases, the graphs themselves are the data we would like to understand. A canonical example here is social network network analysis.
-A third category are problems in which the data of interest is defined on top of a graph and we would like to leverage the graph structure to understand those data better --- think for instance of dynamical systems such as the flow of traffic or human mobility patterns defined on top of a graph.*
+A third category are problems in which the data of interest is defined on top of a graph and we would like to leverage the graph structure to understand those data better --- think for instance of dynamical systems such as the flow of traffic or human mobility patterns defined on top of a graph.*{: style="text-align: justified"}
 
 *In this talk we will give a brief overview of these various learning perspectives associated to graphs and data analysis and highlight differences, similarities and challenges among these.
-We will particularly focus on the latter perspective: how to learn from data defined on networks? In this context we will discuss the problem of 'topological inference' in more detail, in which we aim to learn a graph from dynamical observations on its nodes.*
+We will particularly focus on the latter perspective: how to learn from data defined on networks? In this context we will discuss the problem of 'topological inference' in more detail, in which we aim to learn a graph from dynamical observations on its nodes.*{: style="text-align: justified"}
 
 
 ### [Caterina De Bacco](https://cdebacco.com/)   
 Max Planck Institute for Intelligent Systems (Germany)   
 
-![](./Caterina.png){:width="100px"}{:style="border: 1px solid black; padding: 2px; float: left; margin: 10px"}
+![](./Caterina.png){:width="100px"}{:style="border: 1px solid black; padding: 2px; float: right; margin: 10px"}
 
 **Incorporating node attributes in community detection for multilayer networks**    
 Abstract. *In this work, we propose a new approach for community detection in multilayer and attributed networks. The goal is to assign each network node to clusters by incorporating both the information carried by nodes' attributes and the connectivity patterns in each layer. This is a challenging inference task as one needs to properly combine two types of information and thus leverage the extent to which topological and attribute information contribute to the network's partition. We present an extension of the existing MultiTensor model which was recently developed as a generative model to perform overlapping community detection on multilayer networks by taking into account different types of interactions. Specifically, we incorporate nodes' attributes into the probabilistic framework to uncover groups of nodes that are structurally close but also share some common characteristics. We illustrate its behavior on synthetic and real data.*
