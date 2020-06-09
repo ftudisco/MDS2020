@@ -56,7 +56,7 @@ We will particularly focus on the latter perspective: how to learn from data def
 ### [Caterina De Bacco](https://cdebacco.com/)   
 Max Planck Institute for Intelligent Systems (Germany)   
 
-![](./Caterina.jpg){:width="100px"}{:style="border: 1px solid black; padding: 2px; float: right; margin: 10px"}
+![](./Caterina.png){:width="100px"}{:style="border: 1px solid black; padding: 2px; float: right; margin: 10px"}
 
 **Incorporating node attributes in community detection for multilayer networks**    
 Abstract. *In this work, we propose a new approach for community detection in multilayer and attributed networks. The goal is to assign each network node to clusters by incorporating both the information carried by nodes' attributes and the connectivity patterns in each layer. This is a challenging inference task as one needs to properly combine two types of information and thus leverage the extent to which topological and attribute information contribute to the network's partition. We present an extension of the existing MultiTensor model which was recently developed as a generative model to perform overlapping community detection on multilayer networks by taking into account different types of interactions. Specifically, we incorporate nodes' attributes into the probabilistic framework to uncover groups of nodes that are structurally close but also share some common characteristics. We illustrate its behavior on synthetic and real data.*
@@ -64,12 +64,18 @@ Abstract. *In this work, we propose a new approach for community detection in mu
 
 ### [Danai Koutra](https://web.eecs.umich.edu/~dkoutra/)   
 University of Michigan (USA)  
+
+![](./Danai.jpg){:width="100px"}{:style="border: 1px solid black; padding: 2px; float: right; margin: 10px"}
+
 **The Power of Summarization in Network Representation Learning (and beyond)**    
 Abstract. *Networks naturally capture a host of real-world interactions, from social interactions and email communication to web browsing to brain activity. Over the past few years, representation learning over networks has been shown to be successful in a variety of downstream tasks, such as classification and link prediction. Most existing approaches seek to learn node representations that capture node proximity. In this talk, I will discuss our recent work on a different class of node representations that aim to preserve the structural similarity between the nodes, which is related to roles and positions in sociology. I will present the lessons learned from designing efficient structural embedding methods for large-scale heterogeneous data, with focus on how we can leverage summarization to overcome the computational challenges and massive storage requirements that many existing techniques face, as well as to gain interpretability. Throughout the talk, I will point out applications to entity linking across data sources (i.e., network alignment), network comparison and classification, professional role discovery, entity resolution, and more.*
 
 
 ### [Ekaterina Rapinchuk](https://users.math.msu.edu/users/merkurje/)   
 Michigan State University (USA)  
+
+![](./Ekaterina.jpg){:width="100px"}{:style="border: 1px solid black; padding: 2px; float: right; margin: 10px"}
+
 **Applications of Auction Dynamics to Data Defined on Networks**  
 Abstract. *The task of classifying data, where the goal is to divide the data into a number of classes, is a fundamental problem in machine learning. In fact, data classification is an integral part of many practical applications, including classification of 3D point clouds representing 3D objects and scenes. In this paper, we present a new graph-based data classification method, which can be applied to both unsupervised and semi-supervised learning. The graph-based algorithm is derived by optimizing an energy formed using both region-based and boundary-based terms; a gradient flow of the energy is performed using an intuitive auction dynamics technique. The new method is unconditionally stable, able to incorporate class size information and very efficient. The accuracy and efficiency of the procedure is demonstrated by experiments on unsupervised classification of 3D point clouds; in fact, the algorithm is able to classify a point cloud of more than a million points in just over a minute.*
 
@@ -77,6 +83,9 @@ Abstract. *The task of classifying data, where the goal is to divide the data in
 
 ### [David Gleich](https://www.cs.purdue.edu/homes/dgleich/)   
 Purdue University (USA)  
+
+![](./David.jpg){:width="100px"}{:style="border: 1px solid black; padding: 2px; float: right; margin: 10px"}
+
 **Nonlinear processes on networks**    
 Abstract. *We discuss various opportunities and challenges using nonlinear processes on graph data. In particular, we focus on how the lack of linearity opens up an interesting possibility in problems related to semi-supervised learning and seeded clustering where the result of multiple seeds does not combine linearly.*    
 
