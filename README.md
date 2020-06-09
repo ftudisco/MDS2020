@@ -35,12 +35,17 @@ TBA
 
 # Speakers and abstracts
 
-## [Michael Schaub](https://michaelschaub.github.io/)   
+### [Michael Schaub](https://michaelschaub.github.io/)   
 
 RWTH Aachen University (Germany)  
-
 Learning from graphs and data on networks: overview and outlook
 
+
+
+### [Caterina De Bacco](https://cdebacco.com/)   
+
+Max Planck Institute for Intelligent Systems (Germany)   
+Incorporating node attributes in community detection for multilayer networks  
 
 
 
