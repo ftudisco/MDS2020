@@ -41,7 +41,7 @@ TBA
 ### [Michael Schaub](https://michaelschaub.github.io/)  
 RWTH Aachen University (Germany)  
 
-![](https://michaelschaub.github.io/images/MichaelBW.jpg){:width="150px" :.align-right}
+![](https://michaelschaub.github.io/images/MichaelBW.jpg){:width="150px" :.align-right}{:style="border: 1px solid black; padding: 2px"}
 
 **Learning from graphs and data on networks: overview and outlook**  
 Abstract. *Many problems in data science can be framed in terms of analyzing graphs.
