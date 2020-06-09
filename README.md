@@ -64,6 +64,7 @@ Abstract. *Networks naturally capture a host of real-world interactions, from so
 ### [Ekaterina Rapinchuk](https://users.math.msu.edu/users/merkurje/)   
 Michigan State University (USA)  
 **Applications of Auction Dynamics to Data Defined on Networks**
+Abstract. *The task of classifying data, where the goal is to divide the data into a number of classes, is a fundamental problem in machine learning. In fact, data classification is an integral part of many practical applications, including classification of 3D point clouds representing 3D objects and scenes. In this paper, we present a new graph-based data classification method, which can be applied to both unsupervised and semi-supervised learning. The graph-based algorithm is derived by optimizing an energy formed using both region-based and boundary-based terms; a gradient flow of the energy is performed using an intuitive auction dynamics technique. The new method is unconditionally stable, able to incorporate class size information and very efficient. The accuracy and efficiency of the procedure is demonstrated by experiments on unsupervised classification of 3D point clouds; in fact, the algorithm is able to classify a point cloud of more than a million points in just over a minute.*
 
 
 
