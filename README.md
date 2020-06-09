@@ -33,5 +33,14 @@ Starting at 10:00 am Eastern time (Boston)
 TBA
 
 
+# Speakers and abstracts
+
+## [Michael Schaub](https://michaelschaub.github.io/)   
+
+RWTH Aachen University (Germany)  
+
+Learning from graphs and data on networks: overview and outlook
+
+
 
 
