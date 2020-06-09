@@ -70,6 +70,7 @@ Abstract. *The task of classifying data, where the goal is to divide the data in
 
 ### [David Gleich](https://www.cs.purdue.edu/homes/dgleich/)   
 Purdue University (USA)  
-**Nonlinear processes on networks **
+**Nonlinear processes on networks**  
+Abstract. *We discuss various opportunities and challenges using nonlinear processes on graph data. In particular, we focus on how the lack of linearity opens up an interesting possibility in problems related to semi-supervised learning and seeded clustering where the result of multiple seeds does not combine linearly.*  
 
 
