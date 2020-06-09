@@ -23,11 +23,11 @@ Starting at 10:00 am Eastern time (Boston)
 
 | Time (ET)     | Speaker                              | Title                                                                         |
 | ------------- | ------------------------------------ | ---------------------------------------------------------------------------- |
-| 10:00 - 10:30 | Michael Schaub (Aachen)              | Learning from graphs and data on networks — overview and outlook             |
-| 10:30 - 11:00 | Caterina De Bacco (Tuebingen)        | Incorporating node attributes in community detection for multilayer networks |
-| 11:00 - 11:30 | Danai Koutra (Michigan)              | The Power of Summarization in Network Representation Learning (and beyond)   |
-| 11:30 - 12:00 | Ekaterina Rapinchuk (Michigan State) | Applications of Auction Dynamics to Data Defined on Networks                 |
-| 12:00 - 12:30 | David Gleich (Purdue)                | Nonlinear processes on networks                                              |
+| 10:00 - 10:30 | Michael Schaub         | Learning from graphs and data on networks — overview and outlook             |
+| 10:30 - 11:00 | Caterina De Bacco      | Incorporating node attributes in community detection for multilayer networks |
+| 11:00 - 11:30 | Danai Koutra           | The Power of Summarization in Network Representation Learning (and beyond)   |
+| 11:30 - 12:00 | Ekaterina Rapinchuk    | Applications of Auction Dynamics to Data Defined on Networks                 |
+| 12:00 - 12:30 | David Gleich           | Nonlinear processes on networks                                              |
 
 ## Zoom link  
 TBA
@@ -36,16 +36,32 @@ TBA
 # Speakers and abstracts
 
 ### [Michael Schaub](https://michaelschaub.github.io/)   
-
 RWTH Aachen University (Germany)  
-Learning from graphs and data on networks: overview and outlook
 
+**Learning from graphs and data on networks: overview and outlook**  
+Abstract. *Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum*
 
 
 ### [Caterina De Bacco](https://cdebacco.com/)   
-
 Max Planck Institute for Intelligent Systems (Germany)   
-Incorporating node attributes in community detection for multilayer networks  
 
+**Incorporating node attributes in community detection for multilayer networks**    
+Abstract. *Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum*
+
+
+### [Danai Koutra](https://web.eecs.umich.edu/~dkoutra/)   
+University of Michigan (USA)  
+**The Power of Summarization in Network Representation Learning (and beyond)**  
+
+
+### [Ekaterina Rapinchuk](https://users.math.msu.edu/users/merkurje/)   
+Michigan State University (USA)  
+**Applications of Auction Dynamics to Data Defined on Networks**
+
+
+
+### [David Gleich](https://www.cs.purdue.edu/homes/dgleich/)   
+Purdue University (USA)  
+**Nonlinear processes on networks **
 
 
