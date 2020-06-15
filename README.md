@@ -33,8 +33,7 @@ Starting at 10:00 am Eastern time (Boston)
 See also the conference's [virtual program](https://siam9-my.sharepoint.com/:x:/g/personal/moore_siam_org/EYTLcxWB41NJs2SqNhuHv4UB9SGkLksNw5_3jt-pJP1biw?rtime=RcpDmJML2Eg)  
 
 ## Zoom link  
-Please register using the following link  
-https://riceuniversity.zoom.us/meeting/register/tJArceCqpjsuHtC9aQc1B8DK4yMmSDuo_e44
+Please [click here](https://riceuniversity.zoom.us/meeting/register/tJArceCqpjsuHtC9aQc1B8DK4yMmSDuo_e44) to register for the event and receive the link to the zoom meeting
 
 
 
