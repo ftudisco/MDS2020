@@ -28,6 +28,7 @@ Starting at 10:00 am Eastern time (Boston)
 | 11:00 - 11:30 | Danai Koutra           | The Power of Summarization in Network Representation Learning (and beyond)   |
 | 11:30 - 12:00 | Ekaterina Rapinchuk    | Applications of Auction Dynamics to Data Defined on Networks                 |
 | 12:00 - 12:30 | David Gleich           | Nonlinear processes on networks                                              |
+| 12:30 - 13:00 | Jan Overgoor           | Choosing To Grow a Graph: Modeling Network Formation as Discrete Choice      |
 
 
 See also the conference's [virtual program](https://siam9-my.sharepoint.com/:x:/g/personal/moore_siam_org/EYTLcxWB41NJs2SqNhuHv4UB9SGkLksNw5_3jt-pJP1biw?rtime=RcpDmJML2Eg)  
@@ -91,3 +92,12 @@ Purdue University (USA)
 Abstract. *We discuss various opportunities and challenges using nonlinear processes on graph data. In particular, we focus on how the lack of linearity opens up an interesting possibility in problems related to semi-supervised learning and seeded clustering where the result of multiple seeds does not combine linearly.*{: style="text-align: justified"}    
 
 
+
+
+### [Jan Overgoor](http://janovergoor.github.io/)   
+Stanford University (USA)  
+
+![](http://janovergoor.github.io/assets/head_pic.jpg){:width="100px"}{:style="border: 1px solid black; padding: 2px; float: right; margin: 10px"}
+
+**Choosing To Grow a Graph: Modeling Network Formation as Discrete Choice**    
+Abstract. *We provide a framework for modeling social network formation through conditional multinomial logit models from discrete choice and random utility theory, in which each new edge is viewed as a "choice" made by a node to connect to another node, based on (generic) features of the other nodes available to make a connection. This perspective on network formation unifies existing models such as preferential attachment, triadic closure, and node fitness, which are all special cases, and thereby provides a flexible means for conceptualizing, estimating, and comparing models. The lens of discrete choice theory also provides several new tools for analyzing social network formation; for example, the significance of node features can be evaluated in a statistically rigorous manner, and mixtures of existing models can be estimated by adapting known expectation-maximization algorithms. We demonstrate the flexibility of our framework through examples that analyze a number of synthetic and real-world datasets. For example, we provide rigorous methods for estimating preferential attachment models and show how to separate the effects of preferential attachment and triadic closure. Non-parametric estimates of the importance of degree show a highly linear trend, and we expose the importance of looking carefully at nodes with degree zero. Examining the formation of a large citation graph, we find evidence for an increased role of degree when accounting for age.*{: style="text-align: justified"}    
