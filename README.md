@@ -18,7 +18,7 @@ Starting at 10:00 am Eastern time (Boston)
 \[7am California, 9am Texas, 3pm UK, 4pm EU, 10pm China\]
 
 
-## Schedule (tentative)   
+## Schedule
 
 
 | Time (ET)     | Speaker                              | Title                                                                         |
