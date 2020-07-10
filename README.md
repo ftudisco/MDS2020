@@ -10,6 +10,9 @@ The goal of this minisymposium is to bring together researchers from different m
 [Santiago Segarra](https://segarra.rice.edu/)     (Rice University - USA)   
 [Francesco Tudisco](https://ftudisco.gitlab.io/)     (Gran Sasso Science Institute - Italy)   
 
+## Video recordings of the talks
+Recordings of all the talks of the mini are available at [this link](https://www.youtube.com/playlist?list=PLYF2iz0DFO08cHnP0MqmjiUdXzKvyo9Nw)
+{{< youtube c2-CfmCtvf0 >}}
 
 ## Session date and time   
 
